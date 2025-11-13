@@ -2,7 +2,7 @@
 
 <h3>NAME : P PARTHIBAN</h3>
 <h3>REGISTER NO : 212223230145</h3>
-<h3>EX. NO</h3>
+<h3>EX. NO 2</h3>
 <h3>DATE : 11.9.2025</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
